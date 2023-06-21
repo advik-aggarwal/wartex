@@ -33,7 +33,8 @@
     text-decoration: none;
     outline: none;
     font-size: 14px;
-    color: #1abc9c;
+    color: #ff00ae;
+    background-color: white;
 }
 
 .justify-content-between {
