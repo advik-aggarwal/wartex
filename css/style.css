@@ -1881,4 +1881,5 @@ you can use the generic selector below, but it's slower:
 .arrow-up-icon{
     padding:20px;
     border-radius:50%;
+    background-color:transparent;
 }
