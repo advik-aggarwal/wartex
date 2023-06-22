@@ -233,12 +233,12 @@
     // ****************************
     // :: 13.0 Scrollup Active Code
     // ****************************
-    if ($.fn.scrollUp) {
-        confer_window.scrollUp({
-            scrollSpeed: 1000,
-            scrollText: '<img src="public/arrow-up-solid.svg" class="arrow-up-icon" height="20px" width="10px" >'
-        });
-    }
+    // if ($.fn.scrollUp) {
+    //     confer_window.scrollUp({
+    //         scrollSpeed: 1000,
+    //         scrollText: '<img src="public/arrow-up-solid.svg" class="arrow-up-icon" height="20px" width="10px" >'
+    //     });
+    // }
 
     // *********************************
     // :: 14.0 Prevent Default 'a' Click
