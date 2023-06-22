@@ -1,5 +1,4 @@
-# Wartex Official Website
-https://wartex.co.in
+
 <h1 align="center">Hi 👋, Welcome to Wartex Website Repo</h1>
 <h3 align="center">This is the official Wartex Website Code</h3>
 
