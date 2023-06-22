@@ -236,7 +236,7 @@
     if ($.fn.scrollUp) {
         confer_window.scrollUp({
             scrollSpeed: 1000,
-            scrollText: '<img src="public/arrow-up-solid.svg"  height="10px" width="10px" >'
+            scrollText: '<img src="public/arrow-up-solid.svg"  height="20px" width="10px" >'
         });
     }
 
